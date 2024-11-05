@@ -15,4 +15,4 @@ Group collaborators are listed below.
 - https://github.com/jackgetgithub
 
 # Note
-This existing design was run on EDA Playground.
+This existing design was ran and tested on EDA Playground.
